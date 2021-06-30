@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello 👊 I'm Mugendi.
 
-<!--
-**mugendinjue/mugendinjue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as a Full Stack Developer.
+- 🌱 I’m currently learning Flutter
+- 📫 How to reach me: mugendinjue7@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<center>
+  <table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=mugendinjue&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>   
+  </tr>   
+  </table>
+</center>
